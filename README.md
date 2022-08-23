@@ -1,0 +1,6 @@
+- 👋 Hi, I’m AJ
+- 👀 I’m interested in basically anything that has to do with computers.
+- 🌱 I’m currently learning python and using numpy.
+- 📫 How to reach me 
+- Email: andrewjt373@gmail.com or
+- LinkedIn: https://www.linkedin.com/in/aj-talbot-b31475217/
